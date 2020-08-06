@@ -14,23 +14,23 @@
 
 ### Languages and Tools:
 
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="32" height="32"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>
-<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="32" height="32"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+<img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
 <br />
 <br />
 
