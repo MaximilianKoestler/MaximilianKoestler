@@ -1,8 +1,8 @@
 ### Hi, I'm Maximilian Köstler 👋
 
 ## I'm a technology enthusiast from Hamburg, currently living in Toulouse
-- 🔭 I’m currently working on a modern Requirements Engineering tool
-- 🌱 I’m currently learning to be better with [Rust](https://www.rust-lang.org/)
+- 🔭 I’m currently working on high performance machine vision solutions
+- 🌱 I’m looking forward to doing more professional work in [Rust](https://www.rust-lang.org/)
 
 ### Connect with me:
 [<img alt="Maximilian Köstler | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
