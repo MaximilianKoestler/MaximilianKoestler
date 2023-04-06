@@ -1,7 +1,9 @@
 ### Hi, I'm Maximilian Köstler 👋
 
-## I'm a technology enthusiast from Hamburg, currently living in Toulouse
-- 🔭 I’m currently working on high performance machine vision solutions
+## I'm a technology enthusiast from Hamburg
+- 🔭 I’m currently working on making images and other media more trustworthy
+- 🦾 I am one of the principal engineers behind [Aru](https://nimbleone.io/), a novel and flexible robotics platform
+- 📷 I have previously worked as an embedded expert on industrial camera firmware
 - 🌱 I’m looking forward to doing more professional work in [Rust](https://www.rust-lang.org/)
 
 ### Connect with me:
