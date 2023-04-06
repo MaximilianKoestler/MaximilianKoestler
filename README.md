@@ -10,8 +10,6 @@
 [<img alt="Maximilian Köstler | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />][linkedin]
 [<img alt="Maximilian Köstler | Xing" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" />][xing]
 [<img alt="Maximilian Köstler | stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
-[<img alt="Maximilian Köstler | facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />][facebook]
-[<img alt="Maximilian Köstler | twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
