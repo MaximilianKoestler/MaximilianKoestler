@@ -1,7 +1,8 @@
 ### Hi, I'm Maximilian Köstler 👋
 
 ## I'm a technology enthusiast from Hamburg
-- 🔭 I’m currently working on making images and other media more trustworthy
+- ☁️ I am currently employed as an embedded software engineer for a cloud-native consulting company
+- 🔭 I have worked on making images and other media more trustworthy
 - 🦾 I am one of the principal engineers behind [Aru](https://nimbleone.io/), a novel and flexible robotics platform
 - 📷 I have previously worked as an embedded expert on industrial camera firmware
 - 🌱 I’m looking forward to doing more professional work in [Rust](https://www.rust-lang.org/)
@@ -13,7 +14,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
