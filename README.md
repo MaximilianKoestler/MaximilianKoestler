@@ -3,7 +3,7 @@
 ## I'm a technology enthusiast from Hamburg
 - ☁️ I am currently employed as an embedded software engineer for a cloud-native consulting company
 - 🔭 I have worked on making images and other media more trustworthy
-- 🦾 I am one of the principal engineers behind [Aru](https://nimbleone.io/), a novel and flexible robotics platform
+- 🦾 I am one of the principal engineers behind [Aru](https://www.nio-robotics.com/), a novel and flexible robotics platform
 - 📷 I have previously worked as an embedded expert on industrial camera firmware
 - 🌱 I’m looking forward to doing more professional work in [Rust](https://www.rust-lang.org/)
 
@@ -24,7 +24,6 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
@@ -44,4 +43,3 @@
 [xing]: https://www.xing.com/profile/Maximilian_Koestler/
 [stackoverflow]: https://stackoverflow.com/users/7317517
 [facebook]: https://fb.com/max.koestler
-[twitter]: https://twitter.com/maxkoestler
