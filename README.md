@@ -35,9 +35,6 @@
 
 ---
 
-[![Maximilian's github stats](https://github-readme-stats.vercel.app/api?username=maximiliankoestler&show_icons=truet&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximiliankoestler&show_icons=true&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [linkedin]: https://linkedin.com/in/maximilian-koestler
 [xing]: https://www.xing.com/profile/Maximilian_Koestler/
